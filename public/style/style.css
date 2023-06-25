@@ -1,0 +1,31 @@
+body {
+    height: 100vh;
+}
+.container {
+    gap: 2em;
+    min-height: max-content
+}
+h1,
+h2 {
+    text-align: center;
+}
+
+.contacts {
+    min-height: 4em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#fabicon {
+    height: 40px;
+    width: 40px;
+    margin: 0 1em;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
