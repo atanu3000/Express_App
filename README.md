@@ -5,7 +5,8 @@ This is a demo website to perform backend technologies as like Node, Express and
 ![](https://img.shields.io/badge/git-fff7f8?colorA=faf0f0&colorB=db4823&style=for-the-badge&logo=git)
 ![](https://img.shields.io/badge/github-fff7f8?colorA=080808&colorB=8a8a8a&style=for-the-badge&logo=github)
 ![](https://img.shields.io/badge/made_with-❤️-bee5ed?colorA=f5e856&colorB=ffa526&style=for-the-badge)
-
+![](https://img.shields.io/badge/using-548f6a?colorA=2c3830&colorB=8c51f0&style=for-the-badge&logo=node)
+![](https://img.shields.io/badge/_node-&_express-bee5ed?colorA=39573c&colorB=7a7a7a&style=for-the-badge)
 ## Step-by-step guide:
 
 - [Installation](#installation)
